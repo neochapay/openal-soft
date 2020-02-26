@@ -1,6 +1,6 @@
 Name:       openal-soft
 Summary:    A cross-platform 3D audio library
-Version:    1.18.2
+Version:    1.20.1
 Release:    1
 Group:      System/Libraries
 License:    LGPLv2.1+
